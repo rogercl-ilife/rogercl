@@ -12,7 +12,7 @@ title                    : "Chao-Lin's Personal Homepage"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
-url                      : https://rogercl-ilife.github.io/rogercl # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://rogercl-ilife.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "rogercl"
 
