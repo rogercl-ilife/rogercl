@@ -1,7 +1,7 @@
 ---
 title: "Paper Title Number 1"
 collection: projects
-permalink: /projects/vton
+permalink: /project/vton
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2024-08-13
 venue: 'Python Project1'
