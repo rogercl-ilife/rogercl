@@ -1,6 +1,6 @@
 ---
 title: "Paper Title Number 1"
-collection: projectss
+collection: projects
 permalink: /projects/vton
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2024-08-13
