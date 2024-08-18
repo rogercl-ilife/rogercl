@@ -21,6 +21,7 @@ git config --list
 
 git remote -v
 git remote add origin https://github.com/<user>/<project>.git
+// system will ask you to input username and personal access token
 
 git add README.md
 git commit -m "First commit"
